@@ -1,0 +1,12 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1745421858
+icon.svg::CompressedTexture2D/CompressedTexture2D::2514222865943106883::1745410318::1745410341::1::::<><><>0<>0<>3469af183b46d645b8cb4ac7cf36f4c8<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://Assets/::1745410815
+::res://Assets/Scripts/::1745419793
+Player.cs::CSharpScript::1570421516829908147::1745419793::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://Prefabs/::1745419915
+Player.tscn::PackedScene::9022174076663715127::1745419915::0::1::::<><><>0<>0<><>::uid://wmyu3ta1d5b8::::res://Assets/Scripts/Player.cs<>uid://b0n5dsfxv2yxh::::res://Sprites/adventure.png
+::res://Prefabs/Scenes/::1745420002
+World.tscn::PackedScene::8862664696251289932::1745420002::0::1::::<><><>0<>0<><>::uid://d1sn5hs2caukt::::res://Prefabs/Player.tscn<>uid://bb255bca4m4xr::::res://icon.svg
+::res://Sprites/::1745415864
+adventure.png::CompressedTexture2D/CompressedTexture2D::4169806506829888573::1745415563::1745415864::1::::<><><>0<>0<>cff59d6fc99b85139593ea28a2247532<>res://.godot/imported/adventure.png-0f86ebe1605f8df4c64b8f72286337cb.ctex::

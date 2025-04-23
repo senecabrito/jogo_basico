@@ -1,0 +1,17 @@
+C:\Users\Sêneca\Documents\projetoqualquer\.godot\mono\temp\obj\Debug\ProjetoQualquer.csproj.AssemblyReference.cache
+C:\Users\Sêneca\Documents\projetoqualquer\.godot\mono\temp\obj\Debug\ProjetoQualquer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sêneca\Documents\projetoqualquer\.godot\mono\temp\obj\Debug\ProjetoQualquer.AssemblyInfoInputs.cache
+C:\Users\Sêneca\Documents\projetoqualquer\.godot\mono\temp\obj\Debug\ProjetoQualquer.AssemblyInfo.cs
+C:\Users\Sêneca\Documents\projetoqualquer\.godot\mono\temp\obj\Debug\ProjetoQualquer.csproj.CoreCompileInputs.cache
+C:\USERS\SÊNECA\DOCUMENTS\PROJETOQUALQUER\.godot\mono\temp\bin\Debug\ProjetoQualquer.deps.json
+C:\USERS\SÊNECA\DOCUMENTS\PROJETOQUALQUER\.godot\mono\temp\bin\Debug\ProjetoQualquer.runtimeconfig.json
+C:\USERS\SÊNECA\DOCUMENTS\PROJETOQUALQUER\.godot\mono\temp\bin\Debug\ProjetoQualquer.dll
+C:\USERS\SÊNECA\DOCUMENTS\PROJETOQUALQUER\.godot\mono\temp\bin\Debug\ProjetoQualquer.pdb
+C:\USERS\SÊNECA\DOCUMENTS\PROJETOQUALQUER\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\USERS\SÊNECA\DOCUMENTS\PROJETOQUALQUER\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\USERS\SÊNECA\DOCUMENTS\PROJETOQUALQUER\.godot\mono\temp\obj\Debug\ProjetoQ.38FE2BA5.Up2Date
+C:\USERS\SÊNECA\DOCUMENTS\PROJETOQUALQUER\.godot\mono\temp\obj\Debug\ProjetoQualquer.dll
+C:\USERS\SÊNECA\DOCUMENTS\PROJETOQUALQUER\.godot\mono\temp\obj\Debug\refint\ProjetoQualquer.dll
+C:\USERS\SÊNECA\DOCUMENTS\PROJETOQUALQUER\.godot\mono\temp\obj\Debug\ProjetoQualquer.pdb
+C:\USERS\SÊNECA\DOCUMENTS\PROJETOQUALQUER\.godot\mono\temp\obj\Debug\ProjetoQualquer.genruntimeconfig.cache
+C:\USERS\SÊNECA\DOCUMENTS\PROJETOQUALQUER\.godot\mono\temp\obj\Debug\ref\ProjetoQualquer.dll

@@ -1,0 +1,25 @@
+[gd_scene load_steps=4 format=3 uid="uid://dyje17md4eddk"]
+
+[ext_resource type="PackedScene" uid="uid://d1sn5hs2caukt" path="res://Prefabs/Player.tscn" id="1_sxqcm"]
+[ext_resource type="Texture2D" uid="uid://bb255bca4m4xr" path="res://icon.svg" id="2_n0c7g"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_gjpho"]
+size = Vector2(384, 22)
+
+[node name="World" type="Node2D"]
+
+[node name="Player" parent="." instance=ExtResource("1_sxqcm")]
+position = Vector2(18, 18)
+
+[node name="Ground" type="StaticBody2D" parent="."]
+
+[node name="Sprite2D" type="Sprite2D" parent="Ground"]
+modulate = Color(0.768627, 0.690196, 1, 1)
+self_modulate = Color(0, 0, 0, 1)
+position = Vector2(189.5, 205)
+scale = Vector2(3.64844, 0.171875)
+texture = ExtResource("2_n0c7g")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Ground"]
+position = Vector2(192, 205)
+shape = SubResource("RectangleShape2D_gjpho")

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6h8joK0V6O4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sêneca\\Documents\\projetoqualquer\\ProjetoQualquer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sêneca\\.nuget\\packages\\godot.sourcegenerators\\4.4.1\\godot.sourcegenerators.4.4.1.nupkg.sha512",
+    "C:\\Users\\Sêneca\\.nuget\\packages\\godotsharp\\4.4.1\\godotsharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\Sêneca\\.nuget\\packages\\godotsharpeditor\\4.4.1\\godotsharpeditor.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
