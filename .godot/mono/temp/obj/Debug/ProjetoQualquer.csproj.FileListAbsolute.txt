@@ -15,3 +15,4 @@ C:\USERS\SÊNECA\DOCUMENTS\PROJETOQUALQUER\.godot\mono\temp\obj\Debug\refint\Pro
 C:\USERS\SÊNECA\DOCUMENTS\PROJETOQUALQUER\.godot\mono\temp\obj\Debug\ProjetoQualquer.pdb
 C:\USERS\SÊNECA\DOCUMENTS\PROJETOQUALQUER\.godot\mono\temp\obj\Debug\ProjetoQualquer.genruntimeconfig.cache
 C:\USERS\SÊNECA\DOCUMENTS\PROJETOQUALQUER\.godot\mono\temp\obj\Debug\ref\ProjetoQualquer.dll
+C:\Users\Sêneca\Documents\projetoqualquer\.godot\mono\temp\obj\Debug\ProjetoQualquer.sourcelink.json
