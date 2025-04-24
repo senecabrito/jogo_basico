@@ -1,9 +1,10 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1745496176
+::res://::1745516631
+game.tscn::PackedScene::3664311148787382738::1745515597::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D/CompressedTexture2D::2514222865943106883::1745410318::1745410341::1::::<><><>0<>0<>3469af183b46d645b8cb4ac7cf36f4c8<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-::res://Assets/::1745410815
-::res://Assets/Scripts/::1745422837
-Player.cs::CSharpScript/CSharpScript::1570421516829908147::1745422837::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://Assets/::1745516532
+::res://Assets/Scripts/::1745516532
+Player.cs::CSharpScript::1570421516829908147::1745516532::0::1::::<>CharacterBody2D<><>0<>0<><>::
 ::res://Free/::1745494950
 20 Enemies.png::CompressedTexture2D/CompressedTexture2D::6421589059625049699::1569880642::1745494950::1::::<><><>0<>0<>90ad846496c543beea4e92c248804c19<>res://.godot/imported/20 Enemies.png-a60bc2dc8b3a2389952107420dc28654.ctex::
 Hello.png::CompressedTexture2D/CompressedTexture2D::8891872333371744415::1569879642::1745494950::1::::<><><>0<>0<>d97f256f29067f0ac20f9ca4fc66269d<>res://.godot/imported/Hello.png-3325e1c28e0195c90b6fc5668592524a.ctex::
@@ -53,14 +54,14 @@ Strawberry.png::CompressedTexture2D/CompressedTexture2D::6521147342626529120::15
 ::res://Free/Main Characters/::1745494950
 Appearing (96x96).png::CompressedTexture2D/CompressedTexture2D::9123792813072305101::1566171324::1745494950::1::::<><><>0<>0<>fe1393c9f16cc62fa86f5da230bf8406<>res://.godot/imported/Appearing (96x96).png-1be505ead0888f496f5c57fb80eadcf6.ctex::
 Desappearing (96x96).png::CompressedTexture2D/CompressedTexture2D::6016482621739843901::1566171332::1745494950::1::::<><><>0<>0<>008eaa7c65a9c2fbd4314af1cf1cdfba<>res://.godot/imported/Desappearing (96x96).png-90d77b68d683f1c41933a2f6a4811a8f.ctex::
-::res://Free/Main Characters/Mask Dude/::1745494950
-Double Jump (32x32).png::CompressedTexture2D/CompressedTexture2D::3081765064690694810::1566491982::1745494950::1::::<><><>0<>0<>703b63b2669ae807a64de39a0ece3111<>res://.godot/imported/Double Jump (32x32).png-e52aed185d06dd27d1887771170d136f.ctex::
-Fall (32x32).png::CompressedTexture2D/CompressedTexture2D::9016268409422589846::1565226160::1745494950::1::::<><><>0<>0<>f338bc38fd9f124dbd3fe7e6ee666910<>res://.godot/imported/Fall (32x32).png-46753a6e622e14f4ad369afb21ef3b7f.ctex::
-Hit (32x32).png::CompressedTexture2D/CompressedTexture2D::7462228107364825710::1566517338::1745494950::1::::<><><>0<>0<>23d97430a74ba28e846a58ddb1a1638b<>res://.godot/imported/Hit (32x32).png-1054cbaa3dd05f3c24a834f7154cb8fe.ctex::
-Idle (32x32).png::CompressedTexture2D/CompressedTexture2D::3657887861377580547::1566491976::1745494950::1::::<><><>0<>0<>6ba69a042fd258e6abd11b274a30230a<>res://.godot/imported/Idle (32x32).png-f390c154ea0e9484d5b47bcb482e0318.ctex::
-Jump (32x32).png::CompressedTexture2D/CompressedTexture2D::2040559821242407330::1565226148::1745494950::1::::<><><>0<>0<>6527c1d5dd998ccfbe43119a00192482<>res://.godot/imported/Jump (32x32).png-cdb29ec84dc29fcec17874fb7570422b.ctex::
-Run (32x32).png::CompressedTexture2D/CompressedTexture2D::4157091441911161468::1566491966::1745494950::1::::<><><>0<>0<>73d45e92a751ea998c8e04d6c8e09675<>res://.godot/imported/Run (32x32).png-fd724f2ab2c4f007251817039d2007b1.ctex::
-Wall Jump (32x32).png::CompressedTexture2D/CompressedTexture2D::6404501237145128706::1566491990::1745494950::1::::<><><>0<>0<>e3568724ca77b588471ee26c61daab3e<>res://.godot/imported/Wall Jump (32x32).png-c95543020d0ecfafdb7d80dd10b3acca.ctex::
+::res://Free/Main Characters/Mask Dude/::1745501907
+Double Jump (32x32).png::CompressedTexture2D/CompressedTexture2D::3081765064690694810::1566491982::1745501907::1::::<><><>0<>0<>703b63b2669ae807a64de39a0ece3111<>res://.godot/imported/Double Jump (32x32).png-e52aed185d06dd27d1887771170d136f.ctex::
+Fall (32x32).png::CompressedTexture2D/CompressedTexture2D::9016268409422589846::1565226160::1745501907::1::::<><><>0<>0<>f338bc38fd9f124dbd3fe7e6ee666910<>res://.godot/imported/Fall (32x32).png-46753a6e622e14f4ad369afb21ef3b7f.ctex::
+Hit (32x32).png::CompressedTexture2D/CompressedTexture2D::7462228107364825710::1566517338::1745501907::1::::<><><>0<>0<>23d97430a74ba28e846a58ddb1a1638b<>res://.godot/imported/Hit (32x32).png-1054cbaa3dd05f3c24a834f7154cb8fe.ctex::
+Idle (32x32).png::CompressedTexture2D/CompressedTexture2D::3657887861377580547::1566491976::1745501907::1::::<><><>0<>0<>6ba69a042fd258e6abd11b274a30230a<>res://.godot/imported/Idle (32x32).png-f390c154ea0e9484d5b47bcb482e0318.ctex::
+Jump (32x32).png::CompressedTexture2D/CompressedTexture2D::2040559821242407330::1565226148::1745501907::1::::<><><>0<>0<>6527c1d5dd998ccfbe43119a00192482<>res://.godot/imported/Jump (32x32).png-cdb29ec84dc29fcec17874fb7570422b.ctex::
+Run (32x32).png::CompressedTexture2D/CompressedTexture2D::4157091441911161468::1566491966::1745501907::1::::<><><>0<>0<>73d45e92a751ea998c8e04d6c8e09675<>res://.godot/imported/Run (32x32).png-fd724f2ab2c4f007251817039d2007b1.ctex::
+Wall Jump (32x32).png::CompressedTexture2D/CompressedTexture2D::6404501237145128706::1566491990::1745501907::1::::<><><>0<>0<>e3568724ca77b588471ee26c61daab3e<>res://.godot/imported/Wall Jump (32x32).png-c95543020d0ecfafdb7d80dd10b3acca.ctex::
 ::res://Free/Main Characters/Ninja Frog/::1745494950
 Double Jump (32x32).png::CompressedTexture2D/CompressedTexture2D::6412116428738176700::1566491840::1745494950::1::::<><><>0<>0<>f56d67f66882edceb6f917ad812815bc<>res://.godot/imported/Double Jump (32x32).png-773c948e1093e1e4e9b55f1bc18638b0.ctex::
 Fall (32x32).png::CompressedTexture2D/CompressedTexture2D::108366810105277384::1565226020::1745494950::1::::<><><>0<>0<>8c2ffb99adf6059c8b3cf4dcbf2c9fe6<>res://.godot/imported/Fall (32x32).png-c6826a2849ff79de3526cd58dbde4ba6.ctex::
@@ -157,8 +158,8 @@ Confetti (16x16).png::CompressedTexture2D/CompressedTexture2D::77887644686931659
 Dust Particle.png::CompressedTexture2D/CompressedTexture2D::870502378879908626::1566046754::1745494949::1::::<><><>0<>0<>d55363d99aec571f399efb0e0440733b<>res://.godot/imported/Dust Particle.png-de173d5e78915695e4465f1e30625237.ctex::
 Shadow.png::CompressedTexture2D/CompressedTexture2D::7819932446861880822::1569872600::1745494949::1::::<><><>0<>0<>0f6b60bab29646b16cb74a2d7ac1fed3<>res://.godot/imported/Shadow.png-ba96beca6a166e183ac7679917090567.ctex::
 Transition.png::CompressedTexture2D/CompressedTexture2D::4676950289036174902::1566218002::1745494949::1::::<><><>0<>0<>428b6d47413eb0db2d10362ec2fcafb1<>res://.godot/imported/Transition.png-74e83ae2f121cc65c3fc1a324be331e8.ctex::
-::res://Free/Terrain/::1745494949
-Terrain (16x16).png::CompressedTexture2D/CompressedTexture2D::2897117472729974804::1569851692::1745494949::1::::<><><>0<>0<>e39bd7030f34913122a555e7a5deca33<>res://.godot/imported/Terrain (16x16).png-dca9e7d7dba2699145ff949a79aaa365.ctex::
+::res://Free/Terrain/::1745516633
+Terrain (16x16).png::CompressedTexture2D/CompressedTexture2D::2897117472729974804::1569851692::1745516633::1::::<><><>0<>0<>e39bd7030f34913122a555e7a5deca33<>res://.godot/imported/Terrain (16x16).png-dca9e7d7dba2699145ff949a79aaa365.ctex::
 ::res://Free/Traps/::1569851786
 ::res://Free/Traps/Arrow/::1745494950
 Hit (18x18).png::CompressedTexture2D/CompressedTexture2D::3187137816189486277::1569283834::1745494949::1::::<><><>0<>0<>3a942f684b2f86ce6214c6d7dac756a5<>res://.godot/imported/Hit (18x18).png-ec40792569fe8a2c13084a6570d88420.ctex::
@@ -216,7 +217,8 @@ Idle.png::CompressedTexture2D/CompressedTexture2D::5014747641705735191::15694170
 ::res://Free/Traps/Trampoline/::1745494949
 Idle.png::CompressedTexture2D/CompressedTexture2D::1549792679668458145::1569209364::1745494949::1::::<><><>0<>0<>fadacf284d019ed6098764b705c152b6<>res://.godot/imported/Idle.png-0a518a6b2d85b617c78764831fa4b1ff.ctex::
 Jump (28x28).png::CompressedTexture2D/CompressedTexture2D::9213889490113996799::1569209352::1745494949::1::::<><><>0<>0<>8ac2700c18251bc9e3f4db87f501b8c6<>res://.godot/imported/Jump (28x28).png-40bbe5d6f5e4a0d7467621d259f78920.ctex::
-::res://Prefabs/::1745496176
-::res://Prefabs/Scenes/::1745496176
-Player.tscn::PackedScene::9022174076663715127::1745496160::0::1::::<><><>0<>0<><>::uid://wmyu3ta1d5b8::::res://Assets/Scripts/Player.cs<>uid://b52ghw1cmegbs::::res://Free/Main Characters/Virtual Guy/Idle (32x32).png
-World.tscn::PackedScene::8862664696251289932::1745496176::0::1::::<><><>0<>0<><>::uid://d1sn5hs2caukt::::res://Prefabs/Scenes/Player.tscn<>uid://bb255bca4m4xr::::res://icon.svg
+::res://Prefabs/::1745516638
+World.tscn::PackedScene::8862664696251289932::1745516638::0::1::::<><><>0<>0<><>::uid://d1sn5hs2caukt::::res://Prefabs/Scenes/Player.tscn<>uid://bb255bca4m4xr::::res://icon.svg<>uid://bhjndplom5qbc::::res://Free/Terrain/Terrain (16x16).png
+::res://Prefabs/Scenes/::1745516638
+Player.tscn::PackedScene::9022174076663715127::1745516693::0::1::::<><><>0<>0<><>::uid://wmyu3ta1d5b8::::res://Assets/Scripts/Player.cs<>uid://b52ghw1cmegbs::::res://Free/Main Characters/Virtual Guy/Idle (32x32).png
+::res://Scripts/::1745515698

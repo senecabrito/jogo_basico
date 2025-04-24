@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\S\u00EAneca\\Documents\\projetoqualquer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E1E41AC-9BA6-4A7F-983D-93D3731057B2}|ProjetoQualquer.csproj|c:\\users\\s\u00EAneca\\documents\\projetoqualquer\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E1E41AC-9BA6-4A7F-983D-93D3731057B2}|ProjetoQualquer.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E1E41AC-9BA6-4A7F-983D-93D3731057B2}|ProjetoQualquer.csproj|c:\\users\\s\u00EAneca\\documents\\projetoqualquer\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1E41AC-9BA6-4A7F-983D-93D3731057B2}|ProjetoQualquer.csproj|solutionrelative:scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\S\u00EAneca\\Documents\\projetoqualquer\\Assets\\Scripts\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
-              "ToolTip": "C:\\Users\\S\u00EAneca\\Documents\\projetoqualquer\\Assets\\Scripts\\Player.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\S\u00EAneca\\Documents\\projetoqualquer\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\S\u00EAneca\\Documents\\projetoqualquer\\Scripts\\Player.cs",
+              "RelativeToolTip": "Scripts\\Player.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T12:40:26.729Z",
+              "WhenOpened": "2025-04-24T17:45:24.947Z",
               "EditorCaption": ""
             }
           ]

@@ -1,6 +1,6 @@
 [gd_scene load_steps=16 format=3 uid="uid://d1sn5hs2caukt"]
 
-[ext_resource type="Script" uid="uid://wmyu3ta1d5b8" path="res://Assets/Scripts/Player.cs" id="1_um8lo"]
+[ext_resource type="Script" uid="uid://wmyu3ta1d5b8" path="res://Scripts/Player.cs" id="1_um8lo"]
 [ext_resource type="Texture2D" uid="uid://b52ghw1cmegbs" path="res://Free/Main Characters/Virtual Guy/Idle (32x32).png" id="2_x3d5u"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_b43ah"]
@@ -104,3 +104,5 @@ speed_scale = 3.5
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(0, 3)
 shape = SubResource("RectangleShape2D_t7w7j")
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]

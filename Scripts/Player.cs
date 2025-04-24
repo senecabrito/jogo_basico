@@ -4,9 +4,9 @@ using System;
 public partial class Player : CharacterBody2D
 {
 	const double Gravity = 150d;
-	const double JumpForce = -65d;
+	const double JumpForce = -100d;
 	private Vector2 Motion;
-	private double Speed = 60d;
+	private double Speed = 85d;
 	private string Animation;
 	private bool Attacking;
 	private Sprite2D Sprite;

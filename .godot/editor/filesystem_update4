@@ -1,5 +1,4 @@
-res://Prefabs/Player.tscn
-res://Prefabs/Scenes/World.tscn
 res://Prefabs/World.tscn
 res://Prefabs/Scenes/Player.tscn
 res://Assets/Scripts/Player.cs
+res://Scripts/Player.cs
